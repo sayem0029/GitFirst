@@ -12,3 +12,7 @@ git status
 
 
 git commit -m "version 1":comment file to know status
+
+git config --global user.email "sayem.shaikh104@gmail.com":create email and user after that store file
+
+git config --global user.name "sayem":username
