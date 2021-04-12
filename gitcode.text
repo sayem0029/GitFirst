@@ -1,0 +1,14 @@
+git --version
+
+git status
+
+git init
+
+
+git add .  :All file add in git
+
+
+git status
+
+
+git commit -m "version 1":comment file to know status
