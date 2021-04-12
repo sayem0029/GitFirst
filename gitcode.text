@@ -18,3 +18,9 @@ git config --global user.email "sayem.shaikh104@gmail.com":create email and user
 git config --global user.name "sayem":username
 
 git log:all detail
+
+
+github userId and password:
+username: sayem0029
+password: sayem6080
+email: sayem.shaikh0029@gmail.com
