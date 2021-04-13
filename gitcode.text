@@ -27,7 +27,7 @@ git checkout filename.txt:single file reset and remove new changes
 
 git checkout . :All file reset and remove new changes
 
-git clone githubfolerURL: all file copey
+git clone githubfolerURL: all file copy
 
 github userId and password:
 username: sayem0029
