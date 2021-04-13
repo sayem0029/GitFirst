@@ -23,7 +23,7 @@ git diff filename.txt:check file modification line
 
 git diff --staged filename.txt:check old file modification line
 
-git checkout filename.txt:single file reset and remove new changes
+git checkout filename.txt:single file reset and remove new changes crate branch
 
 git checkout . :All file reset and remove new changes
 
