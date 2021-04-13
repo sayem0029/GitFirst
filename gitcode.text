@@ -19,11 +19,15 @@ git config --global user.name "sayem":username
 
 git log:all detail
 
+git diff filename.txt:check file modification line
+
+git diff --staged filename.txt:check old file modification line
 
 github userId and password:
 username: sayem0029
 password: sayem6080
 email: sayem.shaikh0029@gmail.com
+
 
 
 github code:
